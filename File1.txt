@@ -1,0 +1,4 @@
+welcome to inti
+of GIT version control system
+
+save it for later code
