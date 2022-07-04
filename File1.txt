@@ -9,6 +9,9 @@ database.batchable(j0b2)
 
 {
 //checkthe update
-//change for bug1 fix;
+//change for bug1 fix.;
+
+console.log("bug2 fix.");
+
 }
 
